@@ -82,3 +82,5 @@ end
 
 gem 'rack-cors', :require => 'rack/cors'
 
+
+gem "tailwindcss-rails", "~> 2.3"
